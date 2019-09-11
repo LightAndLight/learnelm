@@ -1,0 +1,23 @@
+.ticked {
+    color: #13a81f;
+}
+
+.ticked:hover {
+    color: #096b10;
+}
+
+.unticked {
+    color: lightgray;
+}
+
+.unticked:hover {
+    color: gray;
+}
+
+.remove {
+    color: lightgray;
+}
+
+.remove:hover {
+    color: #6c0909;
+}
